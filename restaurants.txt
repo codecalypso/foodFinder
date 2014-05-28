@@ -1,0 +1,6 @@
+PIZZA PIE	American	10
+Yolkish	American-Cuban	20
+Panda Noodle	Korean	35
+Cafe Bleau	Brazilian	15
+Scotti Biscotti	Italian	45
+Crepe	French	30
